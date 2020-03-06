@@ -1,0 +1,10 @@
+a b
+b a
+b bc
+bc c
+c d
+d somewhere
+somewhere d
+somewhere a
+b bc2
+bc2 c
