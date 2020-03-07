@@ -1,0 +1,10 @@
+a   b   10
+b   bc  10
+b   bc2 10
+b   c   50
+bc  c   10
+bc2 c   5
+c   d   10
+c   sw  40
+d   sw  20
+sw  a   10
