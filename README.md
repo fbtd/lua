@@ -14,3 +14,13 @@ exercises and notes from "Programming in Lia - Forth edition" by Roberto Ierusal
 ### Chapter 8
 * Ex 5
 * Ex 6
+
+### Chapter 15
+* serialization
+
+### Chapter 16
+
+### Chapter 17
+
+### Chapter 18
+* generic for *notes*
